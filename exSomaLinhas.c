@@ -1,5 +1,5 @@
 #include<stdio.h>
-//matrizes on GITHUB
+//matrizes on GITHUB reverte
 int main (){
 
     int m,n;
