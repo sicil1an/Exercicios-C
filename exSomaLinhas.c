@@ -1,8 +1,5 @@
 #include<stdio.h>
-//matrizes on GITHUB reverte
-
-
-//>>>>>>> parent of 9561e41 (origin)
+//matrizes on GITHUB
 int main (){
 
     int m,n;
