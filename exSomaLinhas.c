@@ -1,5 +1,5 @@
 #include<stdio.h>
-//matrizes
+//matrizes on GITHUB
 int main (){
 
     int m,n;
